@@ -1,4 +1,17 @@
+    // Criterion: Functionality
+    // The user's input string is split into an array of strings.
+   
 
+    // Criterion: Functionality
+    // A loop is used to iterate through the array of flavors.
+    
+        // Criterion: Functionality
+        // An object is used to keep count of how many orders there are of each flavor.
+       
+      
+    // Criterion: Code Style
+    // The logic for counting the frequencies of elements in an array is organized into a function that returns an object.
+   
 
 const userInputString = prompt(
     "Please enter froyo flavors by commas."
